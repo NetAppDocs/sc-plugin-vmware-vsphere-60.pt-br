@@ -2160,4 +2160,5 @@
   <block id="c257f5c852c12409e63afb17104f69c5" category="sidebar">APIS REST</block>
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Workflows de APIs REST para modificar programações incorporadas</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Atualize para um novo patch da mesma versão</block>
+  <block id="88464b0f22e28142bc76c51bba424a64" category="cell">Ambientes NFS: ONTAP SnapMirror Restore Ambientes VMFS: Clonar e montar com Storage VMotion</block>
 </blocks>
